@@ -59,19 +59,19 @@ public class SoftwareEngineer
 
 ### Academic Projects
 
-- [To The Top — Unity Game](https://github.com/maciejdrywa/ToTheTop-UnityGame) — A 2D platformer built with Unity and C#, featuring character movement, jumping, collectibles and enemy interactions.
-- [OAuth2 Cybersecurity](https://github.com/maciejdrywa/OAuth2-Cybersecurity-project) — A full-stack React and FastAPI application demonstrating Google sign-in, role-based access control and CSRF protection.
+- [To The Top — Unity Game](https://github.com/maciejdrywa/ToTheTop-UnityGame) - A 2D platformer built with Unity and C#, featuring character movement, jumping, collectibles and enemy interactions.
+- [OAuth2 Cybersecurity](https://github.com/maciejdrywa/OAuth2-Cybersecurity-project) - A full-stack React and FastAPI application demonstrating Google sign-in, role-based access control and CSRF protection.
 
 ### Personal Projects
 
-- [zdrofit-cli](https://github.com/maciejdrywa/zdrofit-cli) — An unofficial interactive terminal client built with TypeScript and React/Ink for browsing, booking and managing Zdrofit fitness classes.
-- [LeetSync](https://github.com/maciejdrywa/leet-sync) — A Chrome extension built with React and TypeScript for syncing LeetCode solutions to GitHub.
-- [Spotify Manager](https://github.com/maciejdrywa/Spotify-manager) — A Python desktop app built with PyQt6 for browsing Spotify playlists and liked songs through the Spotify API.
+- [zdrofit-cli](https://github.com/maciejdrywa/zdrofit-cli) - An unofficial interactive terminal client built with TypeScript and React/Ink for browsing, booking and managing Zdrofit fitness classes.
+- [LeetSync](https://github.com/maciejdrywa/leet-sync) - A Chrome extension built with React and TypeScript for syncing LeetCode solutions to GitHub.
+- [Spotify Manager](https://github.com/maciejdrywa/Spotify-manager) - A Python desktop app built with PyQt6 for browsing Spotify playlists and liked songs through the Spotify API.
 
 ### Hackathons
 
-- [Neuro Hackathon 2025](https://github.com/maciejdrywa/Neuro-Hackathon-2025) — A Python project for real-time EEG acquisition, signal processing and focus estimation.
+- [Neuro Hackathon 2025](https://github.com/maciejdrywa/Neuro-Hackathon-2025) - A Python project for real-time EEG acquisition, signal processing and focus estimation.
 
 ### Currently Working On
 
-- [Notely — Group Project](https://github.com/Notely-Group-Project-2026) — A university group project in development, combining a web app, machine learning models and audio preprocessing to transcribe piano recordings into sheet music.
+- [Notely — Group Project](https://github.com/Notely-Group-Project-2026) - A university group project in development, combining a web app, machine learning models and audio preprocessing to transcribe piano recordings into sheet music.
