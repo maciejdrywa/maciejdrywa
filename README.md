@@ -59,7 +59,7 @@ public class SoftwareEngineer
 
 ### Academic Projects
 
-- [To The Top — Unity Game](https://github.com/maciejdrywa/ToTheTop-UnityGame) - A 2D platformer built with Unity and C#, featuring character movement, jumping, collectibles and enemy interactions.
+- [To The Top - Unity Game](https://github.com/maciejdrywa/ToTheTop-UnityGame) - A 2D platformer built with Unity and C#, featuring character movement, jumping, collectibles and enemy interactions.
 - [OAuth2 Cybersecurity](https://github.com/maciejdrywa/OAuth2-Cybersecurity-project) - A full-stack React and FastAPI application demonstrating Google sign-in, role-based access control and CSRF protection.
 
 ### Personal Projects
@@ -74,4 +74,4 @@ public class SoftwareEngineer
 
 ### Currently Working On
 
-- [Notely — Group Project](https://github.com/Notely-Group-Project-2026) - A university group project in development, combining a web app, machine learning models and audio preprocessing to transcribe piano recordings into sheet music.
+- [Notely - Group Project](https://github.com/Notely-Group-Project-2026) - A university group project in development, combining a web app, machine learning models and audio preprocessing to transcribe piano recordings into sheet music.
